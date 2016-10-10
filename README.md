@@ -4,7 +4,7 @@ AWS Lamdba used for latency measurement and demonstrate freeze/thaw behaviour.
 
 This project contains the supporting code for the following blog post:
 
-   https://engineering.thetrainline.com/<FIXME>
+   https://engineering.thetrainline.com/2016/10/10/microservices-with-api-gateway-aws-lambda-and-jvm-languages/
 
 ## Usage
 
